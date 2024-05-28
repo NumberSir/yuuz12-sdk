@@ -1,4 +1,4 @@
-"""https://doc.yuuz12.top/web/#/5/23"""
+"""https://doc.yuuz12.top/web/#/5/"""
 from json import JSONDecodeError
 
 import httpx
