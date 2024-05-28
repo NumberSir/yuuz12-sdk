@@ -1,6 +1,6 @@
 [project]
 name = "yuuz12-sdk"
-version = "0.1.3"
+version = "0.1.4"
 description = "Python 3 SDK for Yuuz12-Api. Check https://doc.yuuz12.top/web/#/5/23 "
 authors = [
     {name = "Number_Sir", email = "number_sir@126.com"},
